@@ -2,7 +2,7 @@
 
 > *"Introverted by nature, expressive through code."*
 
-I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains of **Nepal** 🏔️, quietly building things that (hopefully) make machines smarter.
+I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains of **Nepal**, quietly building things that (hopefully) make machines smarter.
 
 ---
 
@@ -50,8 +50,8 @@ All projects follow a clean, **production-style folder structure** 📁
 
 Even introverts like good conversations — especially about ML!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email-here@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/himmat-magar/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](himmatmagar007@gmail.com)
 
 ---
 
