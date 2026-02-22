@@ -8,7 +8,7 @@ I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains
 
 ## 🧠 What I'm Up To
 
-- 🤖 Diving deep into **AI/ML** — from classical algorithms to neural networks
+- 🤖 Diving deep into **AI/ML** from classical algorithms to neural networks
 - 🔭 Currently exploring **NLP & Deep Learning** architectures
 - 🌱 Always learning, always experimenting (mostly at odd hours 🌙)
 
@@ -33,14 +33,14 @@ All projects follow a clean, **production-style folder structure** 📁
 | 🛂 **Australia Visa Eligibility Predictor** | End-to-end ML pipeline predicting visa eligibility based on applicant data |
 | 🍷 **Wine Quality Predictor** | Predicts wine quality from chemical properties using ML models |
 | 🔤 **Next Word Predictor** | Deep learning model using LSTM/GRU to predict the next word in a sequence |
-| 📧 **Email Classifier** | Classifies emails intelligently — because not all emails deserve your attention |
+| 📧 **Email Classifier** | Classifies emails intelligently because not all emails deserve your attention |
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🏔️ I'm from **Nepal** — yes, we do have internet, and yes, it's fast enough to train models
-- 🤫 I'm an **introvert** — my best conversations happen with Python interpreters
+- 🏔️ I'm from **Nepal** yes, we do have internet, and yes, it's fast enough to train models
+- 🤫 I'm an **introvert** my best conversations happen with Python interpreters
 - ☕ Debugging sessions are powered by tea (it's a Nepali thing)
 - 🧩 I find more joy in a clean folder structure than most people find in parties
 
@@ -48,7 +48,7 @@ All projects follow a clean, **production-style folder structure** 📁
 
 ## 📫 Let's Connect
 
-Even introverts like good conversations — especially about ML!
+Even introverts like good conversations especially about ML!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/himmat-magar/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](himmatmagar007@gmail.com)
