@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey there, I'm Himmat Magar 👋🇳🇵
 
-<!--
-**HimmatMagar/HimmatMagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Introverted by nature, expressive through code."*
 
-Here are some ideas to get you started:
+I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains of **Nepal** 🏔️, quietly building things that (hopefully) make machines smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm Up To
+
+- 🤖 Diving deep into **AI/ML** — from classical algorithms to neural networks
+- 🔭 Currently exploring **NLP & Deep Learning** architectures
+- 🌱 Always learning, always experimenting (mostly at odd hours 🌙)
+
+---
+
+## 🛠️ My Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+All projects follow a clean, **production-style folder structure** 📁
+
+| 🔬 Project | 📝 Description |
+|---|---|
+| 🛂 **Australia Visa Eligibility Predictor** | End-to-end ML pipeline predicting visa eligibility based on applicant data |
+| 🍷 **Wine Quality Predictor** | Predicts wine quality from chemical properties using ML models |
+| 🔤 **Next Word Predictor** | Deep learning model using LSTM/GRU to predict the next word in a sequence |
+| 📧 **Email Classifier** | Classifies emails intelligently — because not all emails deserve your attention |
+
+---
+
+## ⚡ Fun Facts
+
+- 🏔️ I'm from **Nepal** — yes, we do have internet, and yes, it's fast enough to train models
+- 🤫 I'm an **introvert** — my best conversations happen with Python interpreters
+- ☕ Debugging sessions are powered by tea (it's a Nepali thing)
+- 🧩 I find more joy in a clean folder structure than most people find in parties
+
+---
+
+## 📫 Let's Connect
+
+Even introverts like good conversations — especially about ML!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email-here@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HimmatMagar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center"><i>Thanks for visiting! Now go build something cool. 🚀</i></p>
