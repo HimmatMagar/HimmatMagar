@@ -17,23 +17,10 @@ I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains
 ## 🛠️ My Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🚀 Projects I'm Proud Of
-
-All projects follow a clean, **production-style folder structure** 📁
-
-| 🔬 Project | 📝 Description |
-|---|---|
-| 🛂 **Australia Visa Eligibility Predictor** | End-to-end ML pipeline predicting visa eligibility based on applicant data |
-| 🍷 **Wine Quality Predictor** | Predicts wine quality from chemical properties using ML models |
-| 🔤 **Next Word Predictor** | Deep learning model using LSTM/GRU to predict the next word in a sequence |
-| 📧 **Email Classifier** | Classifies emails intelligently because not all emails deserve your attention |
 
 ---
 
