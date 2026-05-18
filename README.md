@@ -24,16 +24,16 @@ I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 🏔️ I'm from **Nepal** yes, we do have internet, and yes, it's fast enough to train models
-- 🤫 I'm an **introvert** my best conversations happen with Python interpreters
-- ☕ Debugging sessions are powered by tea (it's a Nepali thing)
-- 🧩 I find more joy in a clean folder structure than most people find in parties
+- I'm from **Nepal** yes, we do have internet, and yes, it's fast enough to train models
+- I'm an **introvert** my best conversations happen with Python interpreters
+- Debugging sessions are powered by tea (it's a Nepali thing)
+- I find more joy in a clean folder structure than most people find in parties
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Even introverts like good conversations especially about ML!
 
