@@ -1,4 +1,4 @@
-# Hey there, I'm Himmat Magar 👋🇳🇵
+# Hey there, I'm Himmat Magar
 
 > *"Introverted by nature, expressive through code."*
 
@@ -6,11 +6,11 @@ I'm an **IT Student** & **Self-taught ML Engineer** from the beautiful mountains
 
 ---
 
-## 🧠 What I'm Up To
+## What I'm Up To
 
-- 🤖 Diving deep into **AI/ML** from classical algorithms to neural networks
-- 🔭 Currently exploring **NLP & Deep Learning** architectures
-- 🌱 Always learning, always experimenting (mostly at odd hours 🌙)
+- Diving deep into **AI/ML** from classical algorithms to neural networks
+- Currently exploring **NLP & Deep Learning** architectures
+- Always learning, always experimenting (mostly at odd hours 🌙)
 
 ---
 
