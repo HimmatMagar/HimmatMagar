@@ -26,8 +26,8 @@
 ### `github_metrics`
 
 <a href="https://github.com/HimmatMagar">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HimmatMagar&show_icons=true&theme=dark&bg_color=0b0e17&title_color=F5A623&icon_color=F5A623&text_color=e8eaf0&border_color=1e2438&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimmatMagar&layout=compact&theme=dark&bg_color=0b0e17&title_color=F5A623&text_color=e8eaf0&border_color=1e2438" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimmatMagar&theme=midnight_purple" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimmatMagar&theme=midnight_purple" />
 </a>
 
 <br />
