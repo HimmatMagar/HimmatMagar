@@ -3,7 +3,7 @@
 # Himmat Magar
 
 **BCSIT Student**  
-*Focused on Machine Learning, Deep Learning, and NLP.*
+*Focused on Machine Learning, Deep Learning, and MLOps.*
 
 ---
 
@@ -14,6 +14,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0e17?style=flat-square&logo=scikit-learn&logoColor=F5A623)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0b0e17?style=flat-square&logo=fastapi&logoColor=F5A623)
 ![Docker](https://img.shields.io/badge/Docker-0b0e17?style=flat-square&logo=docker&logoColor=F5A623)
+![DVC](https://img.shields.io/badge/DVC-0b0e17?style=flat-square&logo=dvc&logoColor=945DD6)
+![MLflow](https://img.shields.io/badge/MLflow-0b0e17?style=flat-square&logo=mlflow&logoColor=0194E2)
 
 ---
 
