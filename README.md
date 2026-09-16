@@ -3,7 +3,7 @@
 # Himmat Magar
 
 **BCSIT Student**  
-*Focused on Machine Learning, Deep Learning, and MLOps.*
+*Focused on building carrer in Machine learning and MLOps Engineering*
 
 ---
 
