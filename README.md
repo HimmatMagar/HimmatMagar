@@ -21,7 +21,7 @@
 
 ### `core_skills`
 
-`Deep Learning` • `Natural Language Processing` • `Transformers` • `Neural Network Internals` • `Classical ML`
+`Deep Learning` • `Natural Language Processing` • `Transformers` • `Neural Network Internals` • `Classical ML`, `MLOps tools`
 
 ---
 
